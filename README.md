@@ -5,11 +5,6 @@
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -29,26 +24,26 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Tickets have 3 stages that can be assigned to them. Assigned means that the ticket has been given to an Agent. Working the Issue(s) means that steps are being taken to reach a potencial resolution. Resolution means that a ticket was resolved or closed.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Now we will walk through the End-User expirence in creating a ticket to submit to the help desk.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/771900ef-16a4-425b-a578-49036b45e546)
+
+The customer will recieve notifications letting them know that there request has been recieved.
+
+When the Help Desk recieves the ticket, the priority will have to set. The priority will be set and Assigned to a particular Agent or Department.
+
+We are going to set the priorty of the ticket we created for "entire mobile online banking is down", as "Emergency", since it is a Business impacting situation. 
+
+![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/e8a96610-51f4-42cb-a424-3785b2f06dc5)
+
+We can now see that the tickets have been updated to "Emergency". 
+
+![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/a1dfa7c4-5531-4804-8744-9b7c517b46d3)
+
+After connecting with the Sys Admin team, we will recieve a response letting us know the ticket is resolved.
+
+Now that the ticket has been resolved, it will be reflected in the "closed" tickets column.
+
+![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/a21cf2db-7b64-4425-aec3-38abd2487128)
