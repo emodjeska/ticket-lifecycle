@@ -30,9 +30,9 @@ Now we will walk through the End-User expirence in creating a ticket to submit t
 
 ![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/771900ef-16a4-425b-a578-49036b45e546)
 
-The customer will recieve notifications letting them know that there request has been recieved.
+The customer will recieve notifications letting them know that their request has been recieved.
 
-When the Help Desk recieves the ticket, the priority will have to set. The priority will be set and Assigned to a particular Agent or Department.
+When the Help Desk recieves the ticket, the priority will have to be set. The priority will be set and assigned to a particular Agent or Department.
 
 We are going to set the priorty of the ticket we created for "entire mobile online banking is down", as "Emergency", since it is a Business impacting situation. 
 
