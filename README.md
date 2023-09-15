@@ -36,14 +36,17 @@ When the Help Desk recieves the ticket, the priority will have to be set. The pr
 
 We are going to set the priorty of the ticket we created for "entire mobile online banking is down", as "Emergency", since it is a Business impacting situation. 
 
-![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/e8a96610-51f4-42cb-a424-3785b2f06dc5)
+![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/3e03497f-0c28-423f-b897-1ec1f0f21f87)
 
 We can now see that the tickets have been updated to "Emergency". 
 
-![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/a1dfa7c4-5531-4804-8744-9b7c517b46d3)
+![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/966c73d4-5352-4c0f-9c50-25c61bfe0a95)
 
 After connecting with the Sys Admin team, we will recieve a response letting us know the ticket is resolved.
 
 Now that the ticket has been resolved, it will be reflected in the "closed" tickets column.
 
-![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/a21cf2db-7b64-4425-aec3-38abd2487128)
+![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/4138c6bc-b7cd-4ff6-af7a-2ed0d1b2d93a)
+
+Thank you for joining me today.
+
