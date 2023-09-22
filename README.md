@@ -24,7 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-In this Tutorial, we are going to use our recently configured OS Ticket as an End User, an Agent, and as a Administartor. Let get to it.
+In this Tutorial, we are going to use our recently configured OS Ticket as an End User, an Agent, and as a Administartor, to outline the lifecycle of a ticket in OS Ticket. Let get to it.
 
 Tickets have 3 stages that can be assigned to them. Assigned means that the ticket has been given to an Agent. Working the Issue(s) means that steps are being taken to reach a potencial resolution. Resolution means that a ticket was resolved or closed.
 
@@ -32,7 +32,7 @@ Start by using this link to create some tickets!
 
 http://localhost/osTicket/
 
-You will guided to this link. Click on create ticket, to get started.
+You will guided to this link. Click on create new ticket, to get started.
 
 ![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/21f1de03-cd11-4805-ba3e-81196673aba9)
 
@@ -60,33 +60,30 @@ We will now log onto the Agent Portal and you will see that the ticket has been 
 
 ![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/c2d2e1af-bba6-4b69-bef4-6999fb728dd5)
 
+You can see here, that the changes you have made are reflected in the "tickets" page
 
+![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/44bab7fe-21b7-46ed-a783-e0e930bd583a)
 
+After that, we are going to update all the tickets to have SLA's and assignments that make sense for them. Then go into The Ticket for Jane that says the she is wondering about the network reset and mark it as Resolved. This will simulate completing a ticket. 
 
+![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/a79fdf0f-184a-4a1e-9434-a067ddf12e29)
 
+![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/04ac0865-c3fb-4aa1-8f27-2112715f9afe)
 
+Take note that the ticket has been removed from our tickets.
 
+Go through and work through the rest of the tickets in a way that makes sense. When you are finished responding to all the tickets, you will see that this is reflected in Jane's tickets.
 
+![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/4cca7b2e-9fce-4471-b77a-042564bebcbd)
 
+From there, Logon to The Admin Portal -> click Agents -> click Manage Agents -> click on Johns profile -> Then click on access/ Permissions. Take a look and get familar with the different features within OS Ticket as an Admin. This will simulate Admin related tasks.
 
+![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/13c896a0-b5f7-4127-a4c1-6d04be96cb11)
 
+Login into the Agent Portal-> Click Tickets -> Click Closed. This will show you all of the closed tickets that you just completed. Look through the tickets and see how they were resloved.
 
+![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/1f92da45-c537-40d4-bfec-f2d561974c5e)
 
-
-
-
-
-
-
-We can now see that the tickets have been updated to "Emergency". 
-
-![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/966c73d4-5352-4c0f-9c50-25c61bfe0a95)
-
-After connecting with the Sys Admin team, we will recieve a response letting us know the ticket is resolved.
-
-Now that the ticket has been resolved, it will be reflected in the "closed" tickets column.
-
-![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/4138c6bc-b7cd-4ff6-af7a-2ed0d1b2d93a)
+That is the end of today's tutorial, we have outlined the lifecycle of a ticket in OS Ticket. Be sure to clean up and delete your resources in Azure so that you do not run into any issues later on.
 
 Thank you for joining me today.
-
