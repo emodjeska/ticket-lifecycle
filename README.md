@@ -24,15 +24,15 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-In this Tutorial, we are going to use our recently configured OS Ticket as an End User, an Agent, and as a Administartor, to outline the lifecycle of a ticket in OS Ticket. Let get to it.
+In this Tutorial, we are going to use our recently created and configured OS Ticket as an End User, an Agent, and as a Administartor, to outline the lifecycle of a ticket in OS Ticket. Let get to it.
 
 Tickets have 3 stages that can be assigned to them. Assigned means that the ticket has been given to an Agent. Working the Issue(s) means that steps are being taken to reach a potencial resolution. Resolution means that a ticket was resolved or closed.
 
-Start by using this link to create some tickets!
+Start by using this link to create some tickets.
 
 http://localhost/osTicket/
 
-You will guided to this link. Click on create new ticket, to get started.
+You will be guided to this link. Click on create new ticket, to get started.
 
 ![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/21f1de03-cd11-4805-ba3e-81196673aba9)
 
@@ -72,11 +72,11 @@ After that, we are going to update all the tickets to have SLA's and assignments
 
 Take note that the ticket has been removed from our tickets.
 
-Go through and work through the rest of the tickets in a way that makes sense. When you are finished responding to all the tickets, you will see that this is reflected in Jane's tickets.
+Go through and resolve the rest of the tickets in a way that makes sense. When you are finished responding to all the tickets, you will see that this is reflected in Jane's tickets.
 
 ![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/4cca7b2e-9fce-4471-b77a-042564bebcbd)
 
-From there, Logon to The Admin Portal -> click Agents -> click Manage Agents -> click on Johns profile -> Then click on access/ Permissions. Take a look and get familar with the different features within OS Ticket as an Admin. This will simulate Admin related tasks.
+From there, Login to The Admin Portal -> click Agents -> click Manage Agents -> click on Johns profile -> Then click on access/ Permissions. Take a look and get familar with the different features within OS Ticket as an Admin. This will simulate Admin related tasks.
 
 ![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/13c896a0-b5f7-4127-a4c1-6d04be96cb11)
 
@@ -84,6 +84,6 @@ Login into the Agent Portal-> Click Tickets -> Click Closed. This will show you 
 
 ![image](https://github.com/emodjeska/ticket-lifecycle/assets/143763072/1f92da45-c537-40d4-bfec-f2d561974c5e)
 
-That is the end of today's tutorial, we have outlined the lifecycle of a ticket in OS Ticket. Be sure to clean up and delete your resources in Azure so that you do not run into any issues later on.
+That is the end of today's tutorial, we have outlined the lifecycle of a ticket in OS Ticket. 
 
 Thank you for joining me today.
